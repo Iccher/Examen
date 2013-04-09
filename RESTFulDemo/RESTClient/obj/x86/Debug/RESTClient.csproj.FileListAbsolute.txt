@@ -1,0 +1,5 @@
+C:\Users\LAPDIER1\Desktop\RESTFULL\RESTFulDemo\RESTFulDemo\RESTClient\bin\Debug\RESTClient.exe
+C:\Users\LAPDIER1\Desktop\RESTFULL\RESTFulDemo\RESTFulDemo\RESTClient\bin\Debug\RESTClient.pdb
+C:\Users\LAPDIER1\Desktop\RESTFULL\RESTFulDemo\RESTFulDemo\RESTClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LAPDIER1\Desktop\RESTFULL\RESTFulDemo\RESTFulDemo\RESTClient\obj\x86\Debug\RESTClient.exe
+C:\Users\LAPDIER1\Desktop\RESTFULL\RESTFulDemo\RESTFulDemo\RESTClient\obj\x86\Debug\RESTClient.pdb
